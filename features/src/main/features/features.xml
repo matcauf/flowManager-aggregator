@@ -22,6 +22,7 @@ and is available at http://www.eclipse.org/legal/epl-v10.html
   <feature name='odl-flowManager' version='${project.version}' description='OpenDaylight :: flowManager'>
     <feature version='${mdsal.version}'>odl-mdsal-broker</feature>
     <feature version='${project.version}'>odl-flowManager-api</feature>
+    <feature version="${openflowplugin.version}">odl-openflowplugin-flow-services</feature>
     <bundle>mvn:org.opendaylight.flowManager/flowManager-impl/{{VERSION}}</bundle>
   </feature>
   <feature name='odl-flowManager-rest' version='${project.version}' description='OpenDaylight :: flowManager :: REST'>

@@ -341,34 +341,6 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.dlux:dlux.common.sigmatopology.resources:0.4.2-Boron-SR2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.dlux:dlux.yangvisualizer:0.4.2-Boron-SR2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.dlux:dlux.yangvisualizer.resources:0.4.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowjava:openflow-protocol-api:0.8.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowjava:openflow-protocol-spi:0.8.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowjava:openflow-protocol-impl:0.8.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowjava:openflowjava-util:0.8.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.model:model-flow-base:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.model:model-flow-service:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.model:model-flow-statistics:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.controller.model:model-topology:1.4.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:forwardingrules-manager:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:forwardingrules-sync:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:inventory-manager:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:lldp-speaker:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:statistics-manager:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin:openflowplugin-blueprint-config:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin:openflowplugin-api:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin:openflowplugin-extension-api:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin:openflowplugin:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin:openflowplugin-impl:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:table-miss-enforcer:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:topology-lldp-discovery:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:topology-manager:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:of-switch-config-pusher:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin:drop-test-karaf:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin:test-common:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.controller:liblldp:0.11.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin:openflowplugin-common:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:bulk-o-matic:0.3.2-Boron-SR2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.openflowplugin.applications:notification-supplier:0.3.2-Boron-SR2" level="project" />
     <orderEntry type="module" module-name="flowManager-impl" scope="RUNTIME" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.opendaylight.controller:config-api:0.5.2-Boron-SR2" level="project" />
     <orderEntry type="module" module-name="flowManager-api" scope="RUNTIME" />
