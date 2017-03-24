@@ -1,0 +1,28 @@
+module flowManager {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:flowManager";
+    prefix "flowManager";
+
+    revision "2015-01-05" {
+        description "Initial revision of flowManager model";
+    }
+
+    grouping flow {
+        leaf flow-id {
+            description "flow Id";
+            type string;
+            mandatory true;
+        }
+    }
+
+    container manager {
+        leaf id {
+            type string;
+            mandatory true;
+        }
+        list flow {
+            key flow-id;
+            uses flow;
+        }
+    }
+}
